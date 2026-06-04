@@ -1,28 +1,12 @@
 ## Mingalabar! , You are welcome  
   
-
-<a href="https://www.facebook.com/https://www.facebook.com/rjhimmatsingh/" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/https://github.com/himmatt" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/himmattsingh" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&left=true&vCenter=true&width=435&lines=Software+Developer;Kubernetes+%26+Cloud+Computing;1%2B+Years+Experience;AWS+Certified+Cloud+Practitioner)](https://git.io/typing-svg)
   
-
-
-
 ### Glad to see you here!  
-A cool developer who loves coding with JavaScript. . I’m  working on a cloud project where I’m handling both the frontend and backend integrating APIs. I enjoy figuring out solutions, building things from scratch, and learning by doing. I like projects that challenge me and help me grow in both coding and cloud technologies.
+A cool developer who loves coding with JavaScript specializing in FullStack Development, Cloud Native Applications, from 🇮🇳 India + Myanmar with 1+ years of professional experience. I’m  working on a cloud project where I’m handling both the frontend and backend integrating APIs. I enjoy about building production-ready applications and scalable cloud infrastructure. I like projects that challenge me and help me grow in both coding and cloud technologies.
 
 After gaining experience in development, I’m now diving into deployment to learn how to make applications more scalable and reliable 
 I’m also planning to take the CKAD (Certified Kubernetes Application Developer) certification before 2026 to strengthen my cloud skills.  
-  
-
-<br/>  
-
 
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
@@ -84,35 +68,32 @@ I’m also planning to take the CKAD (Certified Kubernetes Application Developer
 
 <br/>  
 
+##  Connect With Me
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=himmatt&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himmatt&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
+<a href="https://www.facebook.com/https://www.facebook.com/rjhimmatsingh/" target="_blank">
+<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+</a>
+<a href="https://github.com/https://github.com/himmatt" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/himmattsingh" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>    
 
 <br/>  
 
-![Profile views counter](https://komarev.com/ghpvc/?username=himmatt&&style=flat-square)  
-  
+###  **" Everything Better At The End "**
+<br/> 
 
-<br/>  
+![Profile Views](https://komarev.com/ghpvc/?username=himmatt&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/himmatt?label=Follow&style=social)](https://github.com/himmatt)
+
 
 <div align="left">
-            <a href="https://www.buymeacoffee.com/himmatt" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
+        <a href="https://www.buymeacoffee.com/himmatt" target="_blank" style="display: inline-block;">
+          <img
+            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+            align="left"/>
             </a></div>
 <br />
 
